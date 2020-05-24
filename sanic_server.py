@@ -1,3 +1,4 @@
+# a example of a Sanic Server, when client access a server we hide and take advantage of retrieve user/password
 #!/usr/bin/env python3
 from sanic import Sanic
 from sanic.response import json
